@@ -1,0 +1,14 @@
+:root {
+   --primary: #7B61FF;     
+  --secondary: #1E1B2C;   
+  --accent: #5A3EFF;     
+  --light: #F7F7F7 ;      
+  --bg: #6C5DD3;  
+}
+
+body {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: var(--bg);
+}
