@@ -69,4 +69,4 @@ git push origin feature-branch
 5. Open a Pull Request
 
 ## Screenshort
-coming soon...
+![Todo List Screenshot](./src/assets/demo.png)
